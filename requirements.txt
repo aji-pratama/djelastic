@@ -1,0 +1,2 @@
+django-elasticsearch-dsl==7.2.1
+Django==3.2.7
